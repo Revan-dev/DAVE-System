@@ -99,7 +99,7 @@ int printMotorEncoder = 0;
  
 ////////////////////////////////////////////////////////
 
-// Accelerometer ///////////////////////////////////////THIS GOTTA BE FIXED
+// Accelerometer //////////////THIS GOTTA BE FIXED
 
 #include "SparkFunLIS3DH_InvPend.h" //(code changes for the Teensy 4.1)
 #include "Wire.h"
